@@ -5,4 +5,7 @@ package com.niuqy.git;
  * @create 2020-10-24 23:21
  */
 public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
 }
